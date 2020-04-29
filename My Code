@@ -6,6 +6,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np    
+#I know I could write more clean code but it was my first time and I didn't notice somethings : )
 ## Login#################################################################
 
 current_time =datetime.today().strftime('%Y-%m-%d')
